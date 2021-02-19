@@ -1,3 +1,3 @@
 # Snake-Game
 
-This the traditional snake game.
+This is the traditional snake game.
